@@ -8,7 +8,7 @@ Module for the Manipulation and Analysis of Mutual Fund data (assets, returns an
 3. Aggregate the information in the identified sub-set by share classes
 
 ### Homework 1:
-1. Think through ID mapping to ensure greatest possible data coverage
+1. Revise/run 1_3 and improve it by better handling ID mapping to ensure greatest possible data coverage
     - crsp_fundno = sub-fund (share classes)
     - crsp_cl_grp = fund (unit of interest)
     - crsp_portno = portfolio identifier (CRSP)
@@ -28,8 +28,7 @@ Utilizing the map developed in the homework
 
 ## How to access the data?
 - Data can be downloaded using the Python API following the instructions found in: Lectures/1_1_Intro_&_Data.ipynb
-- Alternatively a zipped file containing all the data can be found in: 
-https://www.dropbox.com/sh/7zq340neph1uvkr/AABBRbitbuX3YwVDblf7Mz66a?dl=0
+- Alternatively the syllabus contains the link to a dropbox folder from which you can download a zipped file containing all the data
 
 ## Project Structure
 ### Functions
